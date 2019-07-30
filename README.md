@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ##This is another change on the issue53 branch
 ##Adding new line to issue53 branch
 
+#This is an other line, to update with git pull
+
